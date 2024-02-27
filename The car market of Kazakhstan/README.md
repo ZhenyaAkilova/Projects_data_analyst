@@ -1,6 +1,9 @@
 <h2 align="center">Проект «Анализ авторынка в Казахстане в 2019 году». </h2>
 <img widht="100" height="300" src="https://celes.club/pictures/uploads/posts/2023-06/1687462339_celes-club-p-mekhanik-risunok-risunok-krasivo-57.jpg">
 
+#### Ссылка на проект с графиками Plotly: 
+https://nbviewer.org/github/ZhenyaAkilova/Projects_data_analyst/blob/main/The%20car%20market%20of%20Kazakhstan/Авторынок%20Казахстана.ipynb
+
 #### Основная задача:
 - Определить рыночные сегменты компании «Меркур Авто».
 #### Цель исследования:
